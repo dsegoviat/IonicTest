@@ -1,1 +1,8 @@
 /* Empty. Add your own CSS if you like */
+
+textarea {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
